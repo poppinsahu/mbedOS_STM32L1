@@ -20,7 +20,7 @@
 #ifndef APP_LORA_RADIO_HELPER_H_
 #define APP_LORA_RADIO_HELPER_H_
 
-#include "SX1272_LoRaRadio.h"
+//#include "SX1272_LoRaRadio.h"
 #include "SX1276_LoRaRadio.h"
 
 #define SX1272   0xFF
